@@ -36,7 +36,8 @@ The Admin Server API provides administrative functionalities for managing and mo
 
 
 # Mobile Application
-
+### [PACS Mobile Application](https://github.com/AhmedShalabi01/pacs-mobile-application.git)
+This application handles user login and registration processes, and manages access to the location by exchanging a digital key with the access point microcontroller using NFC technology.
 
 # Embedded System
 
