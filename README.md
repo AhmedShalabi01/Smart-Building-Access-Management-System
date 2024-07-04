@@ -35,11 +35,19 @@ This microservice implements the core access control functionalities, including 
 The Admin Server API provides administrative functionalities for managing and monitoring the backend system performance. Uses Codecentric's Spring Admin Server dependency based upon Spring Actuator to reveal information endpoints such as the system's health, metrics, http traces and more.
 
 
+
 # Mobile Application
-### [PACS Mobile Application](https://github.com/AhmedShalabi01/pacs-mobile-application.git)
+### [PACS Mobile Application](https://github.com/AhmedShalabi01/pacs-mobile-application)
 This application handles user login and registration processes, and manages access to the location by exchanging a digital key with the access point microcontroller using NFC technology.
 
+
+
 # Embedded System
+### [PACS Embedded System](https://github.com/Jalal-Assaly/pacs-embedded-client)
+The embedded system is responsible for controlling the ESP32 microcontroller to interface with the NFC reader and various other components.
+
 
 
 # FrontEnd 
+### [FrontEnd System](https://github.com/Jalal-Assaly/pacs-ui.git)
+The frontend is used for system management, monitoring, and logging.
