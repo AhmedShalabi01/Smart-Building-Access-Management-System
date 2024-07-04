@@ -1,6 +1,6 @@
 # Graduation Project
 #### Collaborators: [Ahmed Salah Shalabi](https://github.com/AhmedShalabi01) and [Jalal Assaly](https://github.com/Jalal-Assaly)
-This repository contains the backend subsystem of the IoT physical access control system. Programmed using Java 17, Spring Boot, and MongoDB for the backend and mobile application. Furthemore, the Embeded system was developed using C, C++. Finally, the frontend was developed using HTML, CSS, TypeScript and Angular Framework. 
+This repository contains subsystems of the IoT physical access control system. Programmed using Java 17, Spring Boot, and MongoDB for the backend and mobile application. Furthemore, the Embeded system was developed using C, C++. Finally, the frontend was developed using HTML, CSS, TypeScript and Angular Framework. 
 
 # Backend Microservices
 
