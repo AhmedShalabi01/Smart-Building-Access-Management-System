@@ -2,6 +2,9 @@
 #### Collaborators: [Ahmed Salah Shalabi](https://github.com/AhmedShalabi01) and [Jalal Assaly](https://github.com/Jalal-Assaly)
 This repository contains subsystems of the IoT physical access control system. Programmed using Java 17, Spring Boot, and MongoDB for the backend and mobile application. Furthemore, the Embeded system was developed using C, C++. Finally, the frontend was developed using HTML, CSS, TypeScript and Angular Framework. 
 
+## Illustrative Video
+[Watch the video](https://drive.google.com/file/d/1fbGVf5QVrfla25-C9wlf16yCCj4XdmEq/view?usp=sharing)
+
 # Backend Microservices
 
 ### [User Credentials API](https://github.com/Jalal-Assaly/user-credentials-api)
