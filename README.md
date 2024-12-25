@@ -3,7 +3,7 @@
 #### Collaborators: [Ahmed Salah Shalabi](https://github.com/AhmedShalabi01) and [Jalal Assaly](https://github.com/Jalal-Assaly)
 
 ## Project Overview
-This project, titled **Smart Building Access Management System using Digital Keys**, was developed as my graduation project at the **Faculty of Engineering, Computer Systems Department in MSA University**. It focuses on enhancing building security and access control using digital key technology, ensuring that only authorized individuals have entry to restricted areas.
+This project, titled **Smart Building Access Management System using Digital Keys**, was developed as my graduation project at the **Faculty of Engineering, Computer Systems Department, MSA University**. It focuses on enhancing building security and access control using digital key technology, ensuring that only authorized individuals have entry to restricted areas.
 
 This repository contains subsystems of the IoT physical access control system. Programmed using Java 17, Spring Boot, and MongoDB for the backend and mobile application. Furthemore, the Embeded system was developed using C, C++. Finally, the frontend was developed using HTML, CSS, TypeScript and Angular Framework. 
 
